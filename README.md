@@ -57,14 +57,6 @@ Trabalho com diferentes níveis de testes para garantir qualidade e estabilidade
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nataansl&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nataansl&layout=compact&theme=tokyonight)
-
----
-
 
 ## 🌐 Contato
 
