@@ -35,7 +35,12 @@ Sou um profissional de tecnologia focado em **Qualidade de Software (QA)** e **D
 ### 🧰 Ferramentas
 
 ![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -72,19 +77,17 @@ Trabalho com diferentes níveis de testes para garantir qualidade e estabilidade
 
 <p align="center">
 
-<a href="https://linkedin.com/in/SEUUSUARIO">
+<a href="https://linkedin.com/in/natan-silva-58b626382">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/SEUUSUARIO">
+<a href="https://instagram.com/naatansl">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="natansl008@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 ---
-
-⭐ Sempre aberto a colaborar em projetos de **automação de testes, QA e desenvolvimento de software**.
