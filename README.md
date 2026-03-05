@@ -66,13 +66,6 @@ Trabalho com diferentes níveis de testes para garantir qualidade e estabilidade
 ---
 
 
-## 🐍 Snake Animation dos Commits
-
-![Snake animation](https://github.com/Nataansl/Nataansl/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
 ## 🌐 Contato
 
 <p align="center">
