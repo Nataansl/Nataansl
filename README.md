@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Natan da Silva
+# Olá, eu sou Natan da Silva
 
 💼 **QA Engineer | Software Developer**  
 📍 Santa Catarina, Brasil  
