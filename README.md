@@ -101,14 +101,6 @@ Conhecimento em diferentes tipos de testes para validar funcionalidades, verific
 
 ---
 
-## 🐍 Minhas Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nataansl/Nataansl/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
-
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
