@@ -1,3 +1,12 @@
+<div align="center">
+  <!-- 1. BANNER DIGITANDO -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=QA+Engineer+%7C+Software+Testing;Test+Automation+%7C+Cypress;Software+Developer+%7C+ADS" alt="Animação Typing SVG" />
+  </a>
+</div>
+
+<br />
+
 # 👋 Olá! Eu sou Natan da Silva
 
 💼 **QA Engineer | Software Testing | Test Automation**  
@@ -89,6 +98,32 @@ Conhecimento em diferentes tipos de testes para validar funcionalidades, verific
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🐍 Minhas Contribuições
+
+<!-- 2. ANIMAÇÃO DA COBRINHA -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Natansll/Natansll/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 📊 Estatísticas e Atividade
+
+<!-- 3. CARTÕES DE ESTATÍSTICAS E LINGUAGENS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Natansll&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natansll&layout=compact&theme=dark&hide=html,css" height="150" alt="Linguagens Mais Usadas" />
+</div>
+
+<br />
+
+<!-- 4. SEQUÊNCIA DE COMMITS (STREAK) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natansll&theme=dark" alt="Sequência de Commits" />
+</div>
 
 ---
 
