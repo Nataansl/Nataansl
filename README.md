@@ -104,8 +104,7 @@ Conhecimento em diferentes tipos de testes para validar funcionalidades, verific
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nataansl&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataansl&layout=compact&theme=dark&hide=html,css" height="150" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nataansl&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="160" alt="Estatísticas do GitHub" />
 </div>
 
 <br />
@@ -113,7 +112,6 @@ Conhecimento em diferentes tipos de testes para validar funcionalidades, verific
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nataansl&theme=dark" alt="Sequência de Commits" />
 </div>
-
 
 ---
 
