@@ -103,27 +103,25 @@ Conhecimento em diferentes tipos de testes para validar funcionalidades, verific
 
 ## 🐍 Minhas Contribuições
 
-<!-- 2. ANIMAÇÃO DA COBRINHA -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Natansll/Natansll/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Nataansl/Nataansl/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
 ## 📊 Estatísticas e Atividade
 
-<!-- 3. CARTÕES DE ESTATÍSTICAS E LINGUAGENS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natansll&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natansll&layout=compact&theme=dark&hide=html,css" height="150" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nataansl&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataansl&layout=compact&theme=dark&hide=html,css" height="150" alt="Linguagens Mais Usadas" />
 </div>
 
 <br />
 
-<!-- 4. SEQUÊNCIA DE COMMITS (STREAK) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natansll&theme=dark" alt="Sequência de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nataansl&theme=dark" alt="Sequência de Commits" />
 </div>
+
 
 ---
 
